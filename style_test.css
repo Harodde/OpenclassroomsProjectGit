@@ -7,3 +7,7 @@
     box-sizing: border-box;
     /* Fait en sorte que la largeur et la hauteur incluent le contenu, les bordures et le padding */
 }
+
+h1 {
+   color: red;
+}
